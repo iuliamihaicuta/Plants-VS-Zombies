@@ -1,4 +1,4 @@
-#include "lab_m1/Tema1/include/Tema1.h"
+#include "lab_m1/Tema1/include/Main.h"
 
 #include <vector>
 #include <iostream>
