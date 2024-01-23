@@ -1,5 +1,5 @@
 #include "include/enemies.h"
-#include "include/Tema1.h"
+#include "include/Main.h"
 #include "include/transform2D.h"
 
 using namespace std;
