@@ -1,4 +1,4 @@
-#include "include/Tema1.h"
+#include "include/Main.h"
 
 int m1::Tema1::getDistance() {
     return distance;
