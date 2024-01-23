@@ -1,6 +1,6 @@
 #include "include/defense.h"
 #include "include/shapes.h"
-#include "include/Tema1.h"
+#include "include/Main.h"
 #include "include/transform2D.h"
 
 m1::Defense::Defense(glm::vec3 center, glm::vec3 color, int x, int y)
