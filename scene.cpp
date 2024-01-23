@@ -1,5 +1,5 @@
 #include "include/shapes.h"
-#include "include/Tema1.h"
+#include "include/Main.h"
 
 void m1::Tema1::CreateGrid() {
     // create the rectangle
